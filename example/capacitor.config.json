@@ -1,0 +1,15 @@
+{
+  "appId": "com.example.plugin",
+  "appName": "example",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "server": {
+    "url": "http://localhost:5173",
+    "cleartext": true
+  }
+}
